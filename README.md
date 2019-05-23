@@ -9,3 +9,7 @@ ____
 
     A continuation of applying the python fundamentals with the addition of some data cleaning and working with dates/times.
 ____
+* [Exploring Ebay Car Sales Data](https://github.com/jcancheta92/Dataquest-Projects/blob/master/3_Exploring%20Ebay%20Car%20Sales%20Data.ipynb)
+
+   Applying the fundamentals of the Pandas and NumPy libaries with some basic data cleaning the analyze the Ebay Car sales Data.
+____
