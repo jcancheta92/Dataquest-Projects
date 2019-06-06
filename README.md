@@ -21,3 +21,11 @@ ____
 
    A continuation of exploring the matplotlib library. Applied more fine tunings to improve plot aesthetics. Also explored conditional plots and visualizing geographic data.
 ____
+* [Clean and Analyze Employee Exit Surveys](https://github.com/jcancheta92/Dataquest-Projects/blob/master/6_Clean%20and%20Analyze%20Employee%20Exist%20Surveys.ipynb)
+
+   Applying more data cleaning and analysis tools with pandas library (data aggregation, transforming, and dealing with missing/duplcate data) to gain some insight on employees satisfaction.
+____
+* [Analyzing and Visualizing the Data](https://github.com/jcancheta92/Dataquest-Projects/blob/master/7_Analyzing%20NYC%20High%20School%20Data.ipynb)
+
+   Going through a more in-depth process to clean, combining multiple data sets, and analyzing the NYC High School Data. Explored various correlations student race, gender, AP exams and their SAT scores.
+____
