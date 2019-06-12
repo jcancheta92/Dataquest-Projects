@@ -29,3 +29,7 @@ ____
 
    Going through a more in-depth process to clean, combining multiple data sets, and analyzing the NYC High School Data. Explored various correlations student race, gender, AP exams and their SAT scores.
 ____
+* [Star Wars Survey](https://github.com/jcancheta92/Dataquest-Projects/blob/master/8_Star%20Wars%20Survey.ipynb)
+
+   Cleaning and Analyzing Star Wars Survey data collected by FiveThirtyEight. Quick analysis to see which Star Wars movie was more popular and how each gender rated it differently.
+____
