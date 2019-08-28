@@ -49,15 +49,15 @@ ____
 
    In October 2015, a data journalist named Walk Hickey analyzed movei ratings data and found strong evidence to suggest that Fandango's rating system was biased and dishonested. Fandango later responded saying that the rounding was a bug in their system.
 
-With this project, we want to investigate wether Fandango is still rounding up their reviews or if they did in fact fix the bug.
+    With this project, we want to investigate wether Fandango is still rounding up their reviews or if they did in fact fix the bug.
 ____
 * [Finding the Best Markets to Advertise In](https://github.com/jcancheta92/Dataquest-Projects/blob/master/15_Finding%20the%20Best%20Markets%20to%20Advertise%20In.ipynb)
    
-In this project, we are assuming that we are working for an e-learning company that offers courses on programming. Most of our courses are on web and mobile development, but we also cover many other domains, like data science, game development, etc. We want to promote our product and and we'd like to invest some money in advertisment. The goal of this project is to find out two best markets to avertise our product in.
+    In this project, we are assuming that we are working for an e-learning company that offers courses on programming. Most of our  courses are on web and mobile development, but we also cover many other domains, like data science, game development, etc. We want to promote our product and and we'd like to invest some money in advertisment. The goal of this project is to find out two best markets to avertise our product in.
 ____
 * [Winning Jeopardy](https://github.com/jcancheta92/Dataquest-Projects/blob/master/16_Winning%20Jeopardy.ipynb)
 
-   Cleaning and Analyzing Star Wars Survey data collected by FiveThirtyEight. Quick analysis to see which Star Wars movie was more popular and how each gender rated it differently.
+ 
 ____
 * [Mobile app for Lottery Addiction](https://github.com/jcancheta92/Dataquest-Projects/blob/master/17_Mobile%20App%20for%20Lottery%20Addiction.ipynb)
 
