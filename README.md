@@ -1,5 +1,5 @@
 # Dataquest-Projects
-This will be a collection of all the projects I have completed from the Data Scientist Path at Dataquest. These will act more of a "proof of concept" for my skills as it continues to grow with each completed mission. My goal is to apply all that I have learned into a personal project that I find interesting once I completed the Data Scientist Path. Those will be in a seperate repository, so please keep a look out for them as I continue my journey down the Data Scientist Path.
+This will be a collection of all the projects I have completed from the Data Scientist Path at Dataquest. These will act more of a "proof of concept" for my skills as it continues to grow with each completed mission. My goal is to apply all that I have learned into a personal project that I find interesting once I completed the Data Scientist Path. Those will be in a separate repository, so please keep a look out for them as I continue my journey down the Data Scientist Path.
 ____
 * [Profitable App Profiles for the App Store and Google Play Markets](https://github.com/jcancheta92/Dataquest-Projects/blob/master/1_Profitable_Apps.ipynb)
 
@@ -11,7 +11,7 @@ ____
 ____
 * [Exploring Ebay Car Sales Data](https://github.com/jcancheta92/Dataquest-Projects/blob/master/3_Exploring%20Ebay%20Car%20Sales%20Data.ipynb)
 
-   Applying the fundamentals of the Pandas and NumPy libaries with some basic data cleaning the analyze the Ebay Car sales Data.
+   Applying the fundamentals of the Pandas and NumPy libraries with some basic data cleaning the analyze the eBay Car sales Data.
 ____
 * [Visualizing Earnings Based on College Majors](https://github.com/jcancheta92/Dataquest-Projects/blob/master/4_Visualizing%20Earnings%20Based%20on%20College%20Majors.ipynb)
 
@@ -23,7 +23,7 @@ ____
 ____
 * [Clean and Analyze Employee Exit Surveys](https://github.com/jcancheta92/Dataquest-Projects/blob/master/6_Clean%20and%20Analyze%20Employee%20Exist%20Surveys.ipynb)
 
-   Applying more data cleaning and analysis tools with pandas library (data aggregation, transforming, and dealing with missing/duplcate data) to gain some insight on employees satisfaction.
+   Applying more data cleaning and analysis tools with pandas library (data aggregation, transforming, and dealing with missing/duplicate data) to gain some insight on employees satisfaction.
 ____
 * [Analyzing and Visualizing the Data](https://github.com/jcancheta92/Dataquest-Projects/blob/master/7_Analyzing%20NYC%20High%20School%20Data.ipynb)
 
@@ -39,7 +39,7 @@ ____
 ____
 * [Answering Business Questions using SQL](https://github.com/jcancheta92/Dataquest-Projects/blob/master/12_Answering%20Business%20Questions%20using%20SQL.ipynb)
 
-   A continuation of applying SQL fundamentals and Pythong to answer some business questions.
+   A continuation of applying SQL fundamentals and Python to answer some business questions.
 ____
 * [Designing and Creating a Database](https://github.com/jcancheta92/Dataquest-Projects/blob/master/13_Designing%20and%20Creating%20a%20Database.ipynb)
 
@@ -47,17 +47,17 @@ ____
 ____
 * [Investigating Fandango Movie Ratings](https://github.com/jcancheta92/Dataquest-Projects/blob/master/14_Investigating%20Fandango%20Movie%20Ratings.ipynb)
 
-   In October 2015, a data journalist named Walk Hickey analyzed movei ratings data and found strong evidence to suggest that Fandango's rating system was biased and dishonested. Fandango later responded saying that the rounding was a bug in their system.
+   In October 2015, a data journalist named Walk Hickey analyzed movie ratings data and found strong evidence to suggest that Fandango's rating system was biased and dishonest. Fandango later responded saying that the rounding was a bug in their system.
 
-    With this project, we want to investigate wether Fandango is still rounding up their reviews or if they did in fact fix the bug.
+    With this project, we want to investigate whether Fandango is still rounding up their reviews or if they did in fact fix the bug.
 ____
 * [Finding the Best Markets to Advertise In](https://github.com/jcancheta92/Dataquest-Projects/blob/master/15_Finding%20the%20Best%20Markets%20to%20Advertise%20In.ipynb)
-   
-    In this project, we are assuming that we are working for an e-learning company that offers courses on programming. Most of our  courses are on web and mobile development, but we also cover many other domains, like data science, game development, etc. We want to promote our product and and we'd like to invest some money in advertisment. The goal of this project is to find out two best markets to avertise our product in.
+
+    In this project, we are assuming that we are working for an e-learning company that offers courses on programming. Most of our  courses are on web and mobile development, but we also cover many other domains, like data science, game development, etc. We want to promote our product and we'd like to invest some money in advertisement. The goal of this project is to find out two best markets to advertise our product in.
 ____
 * [Winning Jeopardy](https://github.com/jcancheta92/Dataquest-Projects/blob/master/16_Winning%20Jeopardy.ipynb)
+    In this project, we are work with a dataset of Jeopardy questions to figure out some patterns in the questions that could help us win Jeopardy
 
- 
 ____
 * [Mobile app for Lottery Addiction](https://github.com/jcancheta92/Dataquest-Projects/blob/master/17_Mobile%20App%20for%20Lottery%20Addiction.ipynb)
 
